@@ -1,0 +1,1 @@
+javascript:(function()%7Bwindow.open("https%3A%2F%2Fwww.facebook.com%2Fflx%2Fwarn%2F%3Fu%3D"%2Bwindow.location.href)%7D)()
